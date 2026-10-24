@@ -1,0 +1,4 @@
+./tests/
+./venv_framework/
+./.venv/
+*.pyc
